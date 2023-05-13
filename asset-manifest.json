@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/desquare/static/css/main.1e077630.chunk.css",
+    "main.css": "/desquare/static/css/main.74970c8b.chunk.css",
     "main.js": "/desquare/static/js/main.4005a3d0.chunk.js",
     "main.js.map": "/desquare/static/js/main.4005a3d0.chunk.js.map",
     "runtime-main.js": "/desquare/static/js/runtime-main.c20694a7.js",
@@ -8,9 +8,9 @@
     "static/js/2.214629f0.chunk.js": "/desquare/static/js/2.214629f0.chunk.js",
     "static/js/2.214629f0.chunk.js.map": "/desquare/static/js/2.214629f0.chunk.js.map",
     "index.html": "/desquare/index.html",
-    "precache-manifest.a993ff11756e2d70f7308b43a1bf7580.js": "/desquare/precache-manifest.a993ff11756e2d70f7308b43a1bf7580.js",
+    "precache-manifest.180c2ccb0050b2ed09155af755eb17cc.js": "/desquare/precache-manifest.180c2ccb0050b2ed09155af755eb17cc.js",
     "service-worker.js": "/desquare/service-worker.js",
-    "static/css/main.1e077630.chunk.css.map": "/desquare/static/css/main.1e077630.chunk.css.map",
+    "static/css/main.74970c8b.chunk.css.map": "/desquare/static/css/main.74970c8b.chunk.css.map",
     "static/js/2.214629f0.chunk.js.LICENSE.txt": "/desquare/static/js/2.214629f0.chunk.js.LICENSE.txt",
     "static/media/facebook.svg": "/desquare/static/media/facebook.9858fd95.svg",
     "static/media/instagram.svg": "/desquare/static/media/instagram.a19b822d.svg",
@@ -19,7 +19,7 @@
   "entrypoints": [
     "static/js/runtime-main.c20694a7.js",
     "static/js/2.214629f0.chunk.js",
-    "static/css/main.1e077630.chunk.css",
+    "static/css/main.74970c8b.chunk.css",
     "static/js/main.4005a3d0.chunk.js"
   ]
 }
