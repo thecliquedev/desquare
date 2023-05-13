@@ -59,7 +59,7 @@ export default function Nav() {
             </button>
             <NavLink className="navbar-brand" to="/index">
               <img
-                src={process.env.PUBLIC_URL + "img/logo.png"}
+                src={`${process.env.PUBLIC_URL}/img/logo.png`}
                 alt=""
                 width="150px"
               />{" "}

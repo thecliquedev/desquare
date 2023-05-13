@@ -32,7 +32,7 @@ const Footer = () => {
       <div className="footer__container bd-grid">
         <div className="footer__content footer_image_social">
           <Link href="#" className="footer__logo">
-            <img src={process.env.PUBLIC_URL + "img/logo.png"} />
+            <img src={`${process.env.PUBLIC_URL}/img/logo.png`} />
           </Link>
           <div>
             <ul className="footer__social">
