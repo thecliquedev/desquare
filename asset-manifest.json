@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/desquare/static/css/main.74970c8b.chunk.css",
-    "main.js": "/desquare/static/js/main.b25b07e9.chunk.js",
-    "main.js.map": "/desquare/static/js/main.b25b07e9.chunk.js.map",
+    "main.js": "/desquare/static/js/main.1155b53f.chunk.js",
+    "main.js.map": "/desquare/static/js/main.1155b53f.chunk.js.map",
     "runtime-main.js": "/desquare/static/js/runtime-main.c20694a7.js",
     "runtime-main.js.map": "/desquare/static/js/runtime-main.c20694a7.js.map",
     "static/js/2.214629f0.chunk.js": "/desquare/static/js/2.214629f0.chunk.js",
     "static/js/2.214629f0.chunk.js.map": "/desquare/static/js/2.214629f0.chunk.js.map",
     "index.html": "/desquare/index.html",
-    "precache-manifest.4cc7395951fb6129852560c26d552f67.js": "/desquare/precache-manifest.4cc7395951fb6129852560c26d552f67.js",
+    "precache-manifest.20f444d646f0fd0db701898735ca2897.js": "/desquare/precache-manifest.20f444d646f0fd0db701898735ca2897.js",
     "service-worker.js": "/desquare/service-worker.js",
     "static/css/main.74970c8b.chunk.css.map": "/desquare/static/css/main.74970c8b.chunk.css.map",
     "static/js/2.214629f0.chunk.js.LICENSE.txt": "/desquare/static/js/2.214629f0.chunk.js.LICENSE.txt",
@@ -20,6 +20,6 @@
     "static/js/runtime-main.c20694a7.js",
     "static/js/2.214629f0.chunk.js",
     "static/css/main.74970c8b.chunk.css",
-    "static/js/main.b25b07e9.chunk.js"
+    "static/js/main.1155b53f.chunk.js"
   ]
 }
