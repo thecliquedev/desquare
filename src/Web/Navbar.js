@@ -8,7 +8,7 @@ export default function Nav() {
     <React.Fragment>
       <nav className="navigation-bar animated fadeInDown delayBy2 hidden-xs hidden-sm">
         <Link to="/index">
-          <img src={process.env.PUBLIC_URL + "img/logo.png"} />
+          <img src={`${process.env.PUBLIC_URL}/img/logo.png`} />
         </Link>
         <ul>
           <li>
