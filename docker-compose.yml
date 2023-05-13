@@ -1,0 +1,18 @@
+version: "3.6"
+services:
+  ui:
+    build:
+      context: .
+      dockerfile: Dockerfile.dev
+    container_name: desquare_ui
+    working_dir: /src
+    command: bash -c 'while !</dev/tcp/db/5432; do sleep 1; done; npm run dev'
+    volumes:
+      - ./:/src
+    ports:
+      - '3000:3000'
+
+networks:
+  default:
+    external:
+      name: desquare_network

@@ -1,0 +1,167 @@
+.center {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+
+.navbar_new {
+    background: #000;
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+}
+
+.navbar_new ul {
+    padding: 0;
+    margin: 0;
+}
+
+.navbar_new li {
+    display: inline-block;
+    list-style: none;
+}
+
+.navbar_new a {
+    line-height: 40px;
+    padding: 16px 40px;
+}
+
+.navbar_new a:hover {
+    background: white;
+    color: black;
+    text-decoration: none;
+    transition: background .3s;
+}
+
+.nav-link {
+    color: #fff;
+    text-decoration: none;
+}
+
+.login {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 40%;
+    width: 25%;
+    padding: 2vw;
+    border: 1px solid #fff;
+    background-color: #000;
+    border-radius: 5px;
+}
+
+.login h3,
+.login label {
+    color: #fff
+}
+
+.btn-default {
+    background-color: #fff;
+    color: #000;
+    transition: all 0.3s ease-in-out;
+    border: 1px solid #000;
+    font-weight: bold
+}
+
+.btn-default:hover {
+    background-color: #000;
+    border: 1px solid #2a2a2a;
+    color: #fff;
+}
+
+.block {
+    position: relative;
+    width: 100vw;
+    height: 100vh;
+    overflow: hidden;
+    background: #000;
+}
+
+img {
+    max-width: 100%;
+}
+
+.events-thumbnail {
+    margin: 1.5vw 0;
+    color: #fff
+}
+
+.events-thumbnail h5 {
+    white-space: nowrap;
+    max-width: 100%;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.events-thumbnail h3 {
+    white-space: nowrap;
+    max-width: 100%;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.editing {
+    position: absolute;
+    top: 5px;
+    right: 20px;
+}
+
+.home {
+    position: absolute;
+    top: 2vw;
+    right: 2vw;
+    font-size: 35px;
+}
+
+.container {
+    background-color: rgba(255, 255, 255, 0.1);
+}
+
+body {
+    background-color: #fff;
+    background-repeat: no-repeat;
+    height: auto;
+    width: 100vw;
+
+}
+
+.event-thumbnail {
+    position: relative;
+    -webkit-background-size: cover;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 200px;
+}
+
+@media screen and (max-width: 600px) {
+    .login {
+        width: 95%;
+    }
+}
+
+.table-dark {
+    background-color: #000;
+    color: #FFF;
+    border-radius: 5px;
+}
+
+td, th {
+    border-right: 1px solid #fff;
+}
+
+td td:first-of-type {
+    width: 10%;
+}
+
+td td:last-of-type {
+    width: 10%;
+}
+
+tr td {
+    width: 40%;
+}

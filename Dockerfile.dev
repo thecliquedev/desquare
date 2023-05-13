@@ -1,0 +1,13 @@
+#add an image for node
+FROM node:15.11.0
+RUN npm install -g pnpm
+
+WORKDIR /src
+
+RUN echo 'alias p="pnpm"' >> ~/.bashrc
+
+COPY ./package.json .
+
+COPY . .
+
+# CMD [ "pnpm", "watch" ] 
