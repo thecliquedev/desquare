@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.1e077630.chunk.css",
-    "main.js": "/static/js/main.bc352d23.chunk.js",
-    "main.js.map": "/static/js/main.bc352d23.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.af61412c.js",
-    "runtime-main.js.map": "/static/js/runtime-main.af61412c.js.map",
-    "static/js/2.214629f0.chunk.js": "/static/js/2.214629f0.chunk.js",
-    "static/js/2.214629f0.chunk.js.map": "/static/js/2.214629f0.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.772a9860228a167ebb51967a596a5b53.js": "/precache-manifest.772a9860228a167ebb51967a596a5b53.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.1e077630.chunk.css.map": "/static/css/main.1e077630.chunk.css.map",
-    "static/js/2.214629f0.chunk.js.LICENSE.txt": "/static/js/2.214629f0.chunk.js.LICENSE.txt",
-    "static/media/facebook.svg": "/static/media/facebook.9858fd95.svg",
-    "static/media/instagram.svg": "/static/media/instagram.a19b822d.svg",
-    "static/media/youtube.svg": "/static/media/youtube.9e59e111.svg"
+    "main.css": "/desquare/static/css/main.1e077630.chunk.css",
+    "main.js": "/desquare/static/js/main.4005a3d0.chunk.js",
+    "main.js.map": "/desquare/static/js/main.4005a3d0.chunk.js.map",
+    "runtime-main.js": "/desquare/static/js/runtime-main.c20694a7.js",
+    "runtime-main.js.map": "/desquare/static/js/runtime-main.c20694a7.js.map",
+    "static/js/2.214629f0.chunk.js": "/desquare/static/js/2.214629f0.chunk.js",
+    "static/js/2.214629f0.chunk.js.map": "/desquare/static/js/2.214629f0.chunk.js.map",
+    "index.html": "/desquare/index.html",
+    "precache-manifest.a993ff11756e2d70f7308b43a1bf7580.js": "/desquare/precache-manifest.a993ff11756e2d70f7308b43a1bf7580.js",
+    "service-worker.js": "/desquare/service-worker.js",
+    "static/css/main.1e077630.chunk.css.map": "/desquare/static/css/main.1e077630.chunk.css.map",
+    "static/js/2.214629f0.chunk.js.LICENSE.txt": "/desquare/static/js/2.214629f0.chunk.js.LICENSE.txt",
+    "static/media/facebook.svg": "/desquare/static/media/facebook.9858fd95.svg",
+    "static/media/instagram.svg": "/desquare/static/media/instagram.a19b822d.svg",
+    "static/media/youtube.svg": "/desquare/static/media/youtube.9e59e111.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.af61412c.js",
+    "static/js/runtime-main.c20694a7.js",
     "static/js/2.214629f0.chunk.js",
     "static/css/main.1e077630.chunk.css",
-    "static/js/main.bc352d23.chunk.js"
+    "static/js/main.4005a3d0.chunk.js"
   ]
 }
