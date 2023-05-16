@@ -31,7 +31,7 @@ const Footer = () => {
     <footer className="footer section bd-container">
       <div className="footer__container bd-grid">
         <div className="footer__content footer_image_social">
-          <Link href="#" className="footer__logo">
+          <Link to="/index" className="footer__logo">
             <img src={`${process.env.PUBLIC_URL}/img/logo.png`} />
           </Link>
           <div>
@@ -62,20 +62,20 @@ const Footer = () => {
         </div>
 
         <div className="footer__content">
-          <h4 className="footer__title">Information</h4>
+          <h4 className="footer__title color__logo">Information</h4>
           <ul>
             <li>
-              <Link href="#" className="footer__link">
+              <Link to="/about" className="footer__link">
                 About
               </Link>
             </li>
             <li>
-              <Link href="#" className="footer__link">
+              <Link to="/our-work" className="footer__link">
                 Our Works
               </Link>
             </li>
             <li>
-              <Link href="#" className="footer__link">
+              <Link to="/publications" className="footer__link">
                 Publication & Awards
               </Link>
             </li>
@@ -89,15 +89,15 @@ const Footer = () => {
             <li>No 507,15 th Cross, 7 th main,</li>
             <li>Indiranagar 2 nd stage Bangalore 560 038.</li>
           </ul>
-          <h4 className="footer__title">Landline</h4>
+          {/* <h4 className="footer__title">Landline</h4> */}
           <ul>
-            <li> 080-43726413</li>
+            <li>080-43726413</li>
+            <li>+91-6360 333 979</li>
           </ul>
-          <h4 className="footer__title">Phone</h4>
+          {/* <h4 className="footer__title">Phone</h4> */}
           <ul>
-            <li>91-6360 333 979</li>
           </ul>
-          <h4 className="footer__title">Email</h4>
+          {/* <h4 className="footer__title">Email</h4> */}
           <ul>
             <li>info@desquare.net</li>
             <li>naveen@desquare.net</li>
@@ -151,7 +151,7 @@ const Footer = () => {
         </div>
       </div>
 
-      <p className="footer__copy">&#169; 2020 Bedimcode. All right reserved.</p>
+      <p className="footer__copy">&#169; 2023 desquare. All right reserved.</p>
     </footer>
   );
 };

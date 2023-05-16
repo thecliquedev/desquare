@@ -412,6 +412,11 @@ div.wrap > div:hover {
   z-index: 300000;
 }
 
+
+.color__logo{
+  color: #aac321;
+}
+
 /*========== FOOTER ==========*/
 footer{
   border-top: 2px solid #e7e7e7;
@@ -429,6 +434,7 @@ footer{
   min-width: 175px;
   display: flex;
   flex-direction: column;
+  position: relative;
 }
 
 .footer__content .btn{
@@ -438,6 +444,11 @@ footer{
 .footer__content ul{
   list-style: none;
   padding-left: 10px;
+}
+
+.footer__content.footer_image_social ul{
+  list-style: none;
+  padding-left: 0px;
 }
 
 .footer__logo{
@@ -473,6 +484,17 @@ footer{
   display: flex;
   flex-direction: row;
   justify-content: space-evenly; 
+  padding: 0px;
+}
+
+.footer__title{
+  font-size: 25px;
+  color: #aac321;
+}
+
+.footer__link{
+  list-style: none;
+  color: #0c0c0c;
 }
 
 @media only screen and (max-width: 850px){
