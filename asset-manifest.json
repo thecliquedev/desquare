@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/desquare/static/css/main.74970c8b.chunk.css",
-    "main.js": "/desquare/static/js/main.1155b53f.chunk.js",
-    "main.js.map": "/desquare/static/js/main.1155b53f.chunk.js.map",
+    "main.css": "/desquare/static/css/main.bea0e2d0.chunk.css",
+    "main.js": "/desquare/static/js/main.c3cfc7cc.chunk.js",
+    "main.js.map": "/desquare/static/js/main.c3cfc7cc.chunk.js.map",
     "runtime-main.js": "/desquare/static/js/runtime-main.c20694a7.js",
     "runtime-main.js.map": "/desquare/static/js/runtime-main.c20694a7.js.map",
     "static/js/2.214629f0.chunk.js": "/desquare/static/js/2.214629f0.chunk.js",
     "static/js/2.214629f0.chunk.js.map": "/desquare/static/js/2.214629f0.chunk.js.map",
     "index.html": "/desquare/index.html",
-    "precache-manifest.20f444d646f0fd0db701898735ca2897.js": "/desquare/precache-manifest.20f444d646f0fd0db701898735ca2897.js",
+    "precache-manifest.e15d1ae96be3d573e926ea2d1e742695.js": "/desquare/precache-manifest.e15d1ae96be3d573e926ea2d1e742695.js",
     "service-worker.js": "/desquare/service-worker.js",
-    "static/css/main.74970c8b.chunk.css.map": "/desquare/static/css/main.74970c8b.chunk.css.map",
+    "static/css/main.bea0e2d0.chunk.css.map": "/desquare/static/css/main.bea0e2d0.chunk.css.map",
     "static/js/2.214629f0.chunk.js.LICENSE.txt": "/desquare/static/js/2.214629f0.chunk.js.LICENSE.txt",
     "static/media/facebook.svg": "/desquare/static/media/facebook.9858fd95.svg",
     "static/media/instagram.svg": "/desquare/static/media/instagram.a19b822d.svg",
@@ -19,7 +19,7 @@
   "entrypoints": [
     "static/js/runtime-main.c20694a7.js",
     "static/js/2.214629f0.chunk.js",
-    "static/css/main.74970c8b.chunk.css",
-    "static/js/main.1155b53f.chunk.js"
+    "static/css/main.bea0e2d0.chunk.css",
+    "static/js/main.c3cfc7cc.chunk.js"
   ]
 }
