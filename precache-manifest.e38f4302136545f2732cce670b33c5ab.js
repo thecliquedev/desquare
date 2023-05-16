@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "276baff2d23396ea90a124a196b63607",
+    "revision": "83f7230f2649886a08c6925dcf7b3d62",
     "url": "/desquare/index.html"
   },
   {
-    "revision": "7bf57347ab131066b77e",
-    "url": "/desquare/static/css/main.bea0e2d0.chunk.css"
+    "revision": "8b6d80c6afbe40e990da",
+    "url": "/desquare/static/css/main.eb01f7af.chunk.css"
   },
   {
-    "revision": "07ec8efd8b44358c31d6",
-    "url": "/desquare/static/js/2.214629f0.chunk.js"
+    "revision": "eba389974f2db7834c7c",
+    "url": "/desquare/static/js/2.fb9164bc.chunk.js"
   },
   {
     "revision": "65f61a1b574cbfdae1aa1e0f7a13f7ca",
-    "url": "/desquare/static/js/2.214629f0.chunk.js.LICENSE.txt"
+    "url": "/desquare/static/js/2.fb9164bc.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "7bf57347ab131066b77e",
-    "url": "/desquare/static/js/main.c3cfc7cc.chunk.js"
+    "revision": "8b6d80c6afbe40e990da",
+    "url": "/desquare/static/js/main.9ad7b1d0.chunk.js"
   },
   {
     "revision": "5ec7a1f72c7439bde5d1",
